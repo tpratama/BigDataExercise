@@ -1,0 +1,32 @@
+Theo Pratama	5114100029
+Sabila Malahati	5114100034
+Hilma Kamilah	5114100188
+
+
+Mining Frequent Patterns without Candidate Generation
+
+Jiawei Han, Jian Pei, and Yiwen Yin
+
+School of Computing Science
+
+Simon Fraser University fhan, peijian, yiwenyg@cs.sfu.ca
+
+I.	Latar Belakang
+
+Mining Frequent Pattern dalam database transaksi, waktu, database deret dan berbagai jenis database yang lain telah berkembang menjadi sangat terkenal didalam riset data mining. Sebagian besar dari teori sebelumnya mengadopsi pendekatan Apriori. Namun, dinilai masih memakan banyak biaya, terutama untuk set data pola produktif dan atau pola lama.
+
+II.	Metode
+
+Dalam paper ini menggunakan beberapa metode, yaitu FP-growth dan FP-tree. Untuk data yang menggunakan metode FP-tree, asumsinya jika dapat menghindari himpunan kandidat yang terlalu banyak, maka performa dari FP-tree akan dapat ditingkatkan. Cara untuk mengatasi masalah tersebut, ada tiga cara, yaitu:
+1.	Dikompresi, basis data berukuran besar dikompresi hingga didapatkan pola struktur data yang padat dan kecil, sehingga mampu menekan biaya yang besar.
+2.	Metode pertumbuhan mining berbasis FP-tree, dikembangkan dimulai dari pola frequent length-1(sebagai inisial pola sumbu x), hal ini digunakan agar dapat mengurangi biaya untuk menghasilkan set candidate.
+3.	Teknik partisi dengan metode divide-and-conquer daripada metode Apriori generasi bottom-up dari set item kombinasi frequent. Digunakan untuk menguraikan tugas penggalian data ke dalam beberapa set tugas  lebih kecil yang memiliki batasan dan kondisi basis datanya sendiri, sehingga dapat mengurangi wilayah pencarian secara signifikan.
+Dalam studi ini kinerja yang telah dilakukan untuk membandingkan kinerja FP-growth dengan Apriori dan TreeProjection, dimana TreeProjection adalah algoritma baru dengan bertujuan untuk frequent pattern min-ing. 
+
+III.	Kelebihan
+
+Kelebihan dari metode FP-tree ini adalah proses mining yang dilakukan lebih efisien dan terukur pada frequent pattern baik yang panjang maupun yang pendek. Dan tentunya dapat lebih murah daripada metode Apriori karena pola struktur data yang didapat lebih kecil sehingga jelas dapat lebih menekan biaya yang dikeluarkan. Selain itu dapat lebih cepat dibandingkan metode mining frequent pattern sebelumnya.
+
+IV.	Kesimpulan
+
+Dalam paper ini mencontohkan beberapa metode untuk menyimpan informasi yang terkompresi, informasi krusial yang berkaitan dengan frequent pattern. Dalam hal ini beberapa metode yang digunakan adalah FP-growth, dan FP-tree dengan  masih mengembangkan kedua metode tersebut, dan diawali dengan mengenalkan terlebih dahulu mengenai metode Apriori. Metode ini seluruhnya digunakan untuk mining seluruh set dari frequent pattern. Disarankan untuk memperluas penggunaan metode FP-tree untuk mining pada sequential patterns, max-patterns, partial periodicity, dan frequent pattern lainnya.
