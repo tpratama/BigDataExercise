@@ -1,0 +1,14 @@
+nasi ayam_goreng sayur_asem es_teh
+nasi tempe tahu es_teh
+nasi tempe telur es_jeruk
+nasi telur ayam_goreng es_teh
+nasi tempe tahu ayam_goreng es_teh
+nasi tempe ayam_goreng es_teh
+nasi tempe sayur_asem es_teh
+nasi tempe sayur_asem air_putih
+nasi tempe sayur_asem ayam_goreng es_jeruk
+nasi ayam_goreng es_teh
+nasi tahu tempe es_teh
+nasi telur tahu es_teh
+nasi telur es_teh
+nasi ayam_goreng tempe air_putih
