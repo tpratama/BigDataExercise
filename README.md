@@ -6,6 +6,9 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 ## Sabila Malahati A 5114100034:
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1632641300823205/3910398828588982/6665647482163221/latest.html
 
+## Theo Pratama 5114100029:
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6297224580875078/3002821797301056/1485447173750245/latest.html
+
 # Tugas 7
 ## Sabila Malahati A. 5114100034:
 Twitter Hashtag Count: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1632641300823205/562641707733014/6665647482163221/latest.html
@@ -16,6 +19,13 @@ Structured Streaming: https://databricks-prod-cloudfront.cloud.databricks.com/pu
 Twitter Hashtag Count: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4734805894724192/535961866102415/5479573596906086/latest.html
 
 Structured Streaming:  https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4734805894724192/535961866102432/5479573596906086/latest.html
+
+## Theo Pratama 5114100029:
+Structured Streaming: 
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6297224580875078/2952066236452578/1485447173750245/latest.html
+
+Twitter Hashtag Count:
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6297224580875078/2952066236452556/1485447173750245/latest.html
 
 # Tugas 6
 ## Collaborating Filtering:
